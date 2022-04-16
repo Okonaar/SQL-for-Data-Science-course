@@ -1,5 +1,6 @@
 Done by: Prus Oleksandr
 Date: 04-14-2022 year
+GitHub file: https://github.com/Okonaar/SQL-for-Data-Science-course/blob/main/Review%20Assignment.txt
 
 Data Scientist Role Play: Profiling and Analyzing the Yelp Dataset Coursera Worksheet
 
